@@ -1,7 +1,6 @@
 ---
 title: "MySQL - Une série de mauvaises décisions de conception"
 date: 2021-04-08T11:43:01+04:00
-draft: true
 tags: ['mysql']
 featured_image: "images/Bad-Design-MySQL-367x205.png"
 ---
